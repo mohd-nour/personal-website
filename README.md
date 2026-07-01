@@ -25,7 +25,7 @@ The site presents who I am and what I have worked on, across six sections:
 
 ## Tech stack
 
-HTML5, CSS3, and vanilla JavaScript. Swiper for the carousel and Unicons for icons. Fonts are Poppins and Syne from Google Fonts.
+HTML5, CSS3, and vanilla JavaScript. Swiper powers the projects carousel and Unicons provides the icons. The Syne typeface is self-hosted, so the only external font asset is the Unicons icon set.
 
 ## Project structure
 
@@ -36,6 +36,8 @@ HTML5, CSS3, and vanilla JavaScript. Swiper for the carousel and Unicons for ico
 │   ├── css/
 │   │   ├── styles.css
 │   │   └── swiper-bundle.css
+│   ├── fonts/
+│   │   └── syne/
 │   ├── js/
 │   │   ├── index.js
 │   │   └── swiper-bundle.min.js
